@@ -1,3 +1,2 @@
 hello
-how are you doing today
-i am doing good today
+how are you doing today 
